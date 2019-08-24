@@ -1,6 +1,6 @@
 name:                TeXmacsGhci
 version:             0.1.0.0
-github:              "githubuser/TeXmacsPipe"
+github:              "github.com/BBratschiKirloskar/TeXmacsGhci"
 license:             BSD3
 author:              "Bertrand Bratschi"
 maintainer:          "example@example.com"
